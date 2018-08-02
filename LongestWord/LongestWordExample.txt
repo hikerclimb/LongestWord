@@ -1,0 +1,10 @@
+Input:
+test
+tester
+testertest
+testing
+TestingTester
+testingtester
+
+Output:
+TestingTester
